@@ -1,6 +1,7 @@
-# Spring Boot API Project
+# Spring Boot REST API Project
 
 A RESTful API built with Spring Boot 3, featuring JWT authentication, PostgreSQL integration, and comprehensive API documentation using Swagger/OpenAPI.
+The main goal is to save you 2 to 3 hours of setup time by providing a ready-to-use Spring Security, Swagger, and JWT-integrated database configuration. Simply download this and jump straight into your project specifications! 🚀
 
 ## Tech Stack
 
